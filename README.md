@@ -1,5 +1,3 @@
-# new-project
-first repository
 <!DOCTYPE html>
 <html lang="en">
 <head>
